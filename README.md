@@ -6,6 +6,9 @@ solved the problems from geeksforgeeks and pynative website.
 Data Structures:
 <br>
  -lists
+ <br>
  -tuple
+ <br>
  -dictnary
+ <br>
  -set
