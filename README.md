@@ -12,3 +12,5 @@ Data Structures:
  -dictnary
  <br>
  -set
+ <br>
+ -strings
