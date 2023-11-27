@@ -14,5 +14,3 @@ Data Structures:
  -set
  <br>
  -strings
- <br>
- numpy
